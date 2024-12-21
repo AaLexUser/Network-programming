@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="0.987">
+  <testsuite name="appTests" errors="0" failures="0" skipped="0" timestamp="2024-12-20T14:57:04" time="0.703" tests="4">
+    <testcase classname="appTests {CHECK EXISTING FIELDS}: author" name="appTests {CHECK EXISTING FIELDS}: author" time="0.056">
+    </testcase>
+    <testcase classname="appTests {CHECK EXISTING FIELDS}: comment" name="appTests {CHECK EXISTING FIELDS}: comment" time="0.023">
+    </testcase>
+    <testcase classname="appTests {CHECK EXISTING FIELDS}: submit" name="appTests {CHECK EXISTING FIELDS}: submit" time="0.015">
+    </testcase>
+    <testcase classname="appTests {CHECK REQUIRED FILED}: author and comment are empty" name="appTests {CHECK REQUIRED FILED}: author and comment are empty" time="0.023">
+    </testcase>
+  </testsuite>
+</testsuites>
