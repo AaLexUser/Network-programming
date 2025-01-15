@@ -1,0 +1,38 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Экзаменационные вопросы
+    chapters:
+      - file: parts/q1.md
+      - file: parts/q2.md
+      - file: parts/q3.md
+      - file: parts/q4.md
+      - file: parts/q5.md
+      - file: parts/q6.md
+      - file: parts/q7.md
+      - file: parts/q8.md
+      - file: parts/q9.md
+      - file: parts/q10.md
+      - file: parts/q11.md
+      - file: parts/q12.md
+      - file: parts/q13.md
+      - file: parts/q14.md
+      - file: parts/q15.md
+      - file: parts/q16.md
+      - file: parts/q17.md
+      - file: parts/q18.md
+      - file: parts/q19.md
+      - file: parts/q20.md
+      - file: parts/q21.md
+      - file: parts/q22.md
+      - file: parts/q23.md
+      - file: parts/q24.md
+      - file: parts/q25.md
+      - file: parts/q26.md
+      - file: parts/q27.md
+      - file: parts/q28.md
+      - file: parts/q29.md
+      - file: genindex
