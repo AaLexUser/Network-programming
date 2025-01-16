@@ -35,4 +35,24 @@ parts:
       - file: parts/q27.md
       - file: parts/q28.md
       - file: parts/q29.md
+      - file: parts/q30.md
+      - file: parts/q31.md
+      - file: parts/q32.md
+      - file: parts/q33.md
+      - file: parts/q34.md
+      - file: parts/q35.md
+      - file: parts/q36.md
+      - file: parts/q37.md
+      - file: parts/q38.md
+      - file: parts/q39.md
+      - file: parts/q40.md
+      - file: parts/q41.md
+      - file: parts/q42.md
+      - file: parts/q43.md
+      - file: parts/q44.md
+      - file: parts/q45.md
+      - file: parts/q46.md
+      - file: parts/q47.md
+      - file: parts/q48.md
+      - file: parts/q49.md
       - file: genindex

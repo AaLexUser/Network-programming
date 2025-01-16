@@ -1,5 +1,5 @@
 #!/bin/bash
 while true; do
-    jupyter-book build .
-    fswatch -1 ./parts ./_toc.yml ./_config.yml ./intro.md
+    jupyter-book build exam/
+    fswatch -1 exam/parts exam/_toc.yml exam/_config.yml exam/intro.md
 done
